@@ -14,7 +14,7 @@ const ProductCard = ({ product, onToggleFavorite, isFavorite }) => {
         className={`favorite-button ${isFavorite ? 'favorited' : ''}`}
         onClick={() => onToggleFavorite(product.id)}
       >
-        {isFavorite ? '★ Favorited' : '☆ Add to Favorites'}
+        {isFavorite ? '★ Added to Favorites' : '☆ Add to Favorites'}
       </button>
     </div>
   );
