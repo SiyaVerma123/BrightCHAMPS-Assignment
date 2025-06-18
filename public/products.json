@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "image": "https://images.unsplash.com/photo-1742570922875-e5a60e950307?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": 59.99,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch Pro",
+    "image": "https://images.unsplash.com/photo-1664730022324-b6f36691a7d1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTR8fHNtYXJ0d2F0Y2glMjBwcm98ZW58MHx8MHx8fDA%3D",
+    "price": 199.99,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Ergonomic Office Chair",
+    "image": "https://images.unsplash.com/photo-1748887522207-3a5a9097bc43?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8RXJnb25vbWljJTIwT2ZmaWNlJTIwQ2hhaXJ8ZW58MHx8MHx8fDA%3D",
+    "price": 249.00,
+    "category": "Home & Office",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Bluetooth Speaker",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Qmx1ZXRvb3RoJTIwU3BlYWtlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 79.50,
+    "category": "Electronics",
+    "rating": 4.0
+  },
+  {
+    "id": 5,
+    "name": "Designer Backpack",
+    "image": "https://images.unsplash.com/photo-1657296177449-8854b68537fb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fERlc2lnbmVyJTIwQmFja3BhY2t8ZW58MHx8MHx8fDA%3D",
+    "price": 89.99,
+    "category": "Fashion",
+    "rating": 3.9
+  },
+  {
+    "id": 6,
+    "name": "Gaming Keyboard",
+    "image": "https://images.unsplash.com/photo-1626155399627-86488538895d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8R2FtaW5nJTIwS2V5Ym9hcmR8ZW58MHx8MHx8fDA%3D",
+    "price": 120.00,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "name": "Coffee Maker Deluxe",
+    "image": "https://images.unsplash.com/photo-1637029765108-b2eec167fc83?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Q29mZmVlJTIwTWFrZXIlMjBEZWx1eGV8ZW58MHx8MHx8fDA%3D",
+    "price": 65.00,
+    "category": "Home & Office",
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "name": "Running Shoes",
+    "image": "https://images.unsplash.com/photo-1585944672394-4c58a015c1fb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fFJ1bm5pbmclMjBTaG9lc3xlbnwwfHwwfHx8MA%3D%3D",
+    "price": 95.00,
+    "category": "Sports",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Digital Camera",
+    "image": "https://images.unsplash.com/photo-1603208234872-619ffa1209cb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8RGlnaXRhbCUyMENhbWVyYXxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 350.00,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 10,
+    "name": "Yoga Mat",
+    "image": "https://images.unsplash.com/photo-1591291621164-2c6367723315?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8WW9nYSUyME1hdHxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 25.00,
+    "category": "Sports",
+    "rating": 4.0
+  },
+  {
+    "id": 11,
+    "name": "External Hard Drive",
+    "image": "https://images.unsplash.com/photo-1674303377230-204108fa43c6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fEV4dGVybmFsJTIwSGFyZCUyMERyaXZlfGVufDB8fDB8fHww",
+    "price": 75.00,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "name": "Smart Light Bulb",
+    "image": "https://plus.unsplash.com/premium_photo-1723579326053-e4b827a2d397?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fFNtYXJ0JTIwTGlnaHQlMjBCdWxifGVufDB8fDB8fHww",
+    "price": 15.00,
+    "category": "Home & Office",
+    "rating": 3.7
+  },
+  {
+    "id": 13,
+    "name": "Travel Mug",
+    "image": "https://images.unsplash.com/photo-1666779484261-1e171bc19dcd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8VHJhdmVsJTIwTXVnfGVufDB8fDB8fHww",
+    "price": 18.00,
+    "category": "Home & Office",
+    "rating": 4.2
+  },
+  {
+    "id": 14,
+    "name": "Fitness Tracker",
+    "image": "https://images.unsplash.com/photo-1557935728-e6d1eaabe558?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Rml0bmVzcyUyMFRyYWNrZXJ8ZW58MHx8MHx8fDA%3D",
+    "price": 110.00,
+    "category": "Sports",
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "name": "Wireless Mouse",
+    "image": "https://plus.unsplash.com/premium_photo-1671611822374-4719df5c89bb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V2lyZWxlc3MlMjBNb3VzZXxlbnwwfHwwfHx8MA%3D%3D",
+    "price": 30.00,
+    "category": "Electronics",
+    "rating": 4.1
+  }
+]
